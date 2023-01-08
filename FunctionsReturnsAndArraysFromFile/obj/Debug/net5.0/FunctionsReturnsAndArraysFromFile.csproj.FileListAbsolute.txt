@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.exe
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.deps.json
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.runtimeconfig.json
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.dll
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\ref\FunctionsReturnsAndArraysFromFile.dll
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnsAndArraysFromFile.pdb
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.AssemblyInfo.cs
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.dll
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\ref\FunctionsReturnsAndArraysFromFile.dll
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.pdb
+C:\Users\atrei\source\repos\FunctionsReturnsAndArraysFromFile\FunctionsReturnsAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnsAndArraysFromFile.genruntimeconfig.cache
